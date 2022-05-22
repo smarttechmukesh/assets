@@ -1,0 +1,17 @@
+<svg fill="#d2fae6" width="56" height="56" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
+<rect width="56" height="56" rx="28" fill="inherit"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11 13.2667C11 12.0155 12.0155 11 13.2667 11H42.7333C43.9845 11 45 12.0155 45 13.2667V42.7333C45 43.9845 43.9845 45 42.7333 45H13.2667C12.0155 45 11 43.9845 11 42.7333V13.2667Z" fill="white" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.2667 30.2668H39.3333H30.2667Z" fill="white"/>
+<path d="M30.2667 30.2668H39.3333" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.2667 34.8002H39.3333H30.2667Z" fill="white"/>
+<path d="M30.2667 34.8002H39.3333" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.2667 39.3335H35.9333H30.2667Z" fill="white"/>
+<path d="M30.2667 39.3335H35.9333" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.5333 30.2668H24.6H15.5333Z" fill="white"/>
+<path d="M15.5333 30.2668H24.6" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.5333 34.8002H24.6H15.5333Z" fill="white"/>
+<path d="M15.5333 34.8002H24.6" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.5333 39.3335H21.2H15.5333Z" fill="white"/>
+<path d="M15.5333 39.3335H21.2" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.5333 16.6667C15.5333 16.0411 16.0411 15.5333 16.6667 15.5333H39.3333C39.9589 15.5333 40.4667 16.0411 40.4667 16.6667V23.4667C40.4667 24.0923 39.9589 24.6 39.3333 24.6H16.6667C16.0411 24.6 15.5333 24.0923 15.5333 23.4667V16.6667Z" fill="white" stroke="#191919" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
