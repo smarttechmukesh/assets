@@ -10,28 +10,28 @@ import fonts
   font-family: Poppins;
   font-style: normal;
   font-weight: 200;
-  src: url(../fonts/Poppins-Light.ttf)
+  src: url(https://smarttechmukesh.github.io/assets/webfonts/Poppins-Light.ttf)
 }
 
 @font-face {
   font-family: Poppins;
   font-style: bold;
   font-weight: 400;
-  src: url(../fonts/Poppins-Regular.ttf)
+  src: url(https://smarttechmukesh.github.io/assets/webfonts/Poppins-Regular.ttf)
 }
 
 @font-face {
   font-family: Poppins;
   font-style: bold;
   font-weight: 500;
-  src: url(../fonts/Poppins-Medium.ttf)
+  src: url(https://smarttechmukesh.github.io/assets/webfonts/Poppins-Medium.ttf)
 }
 
 @font-face {
   font-family: Poppins;
   font-style: bold;
   font-weight: 600;
-  src: url(../fonts/Poppins-Bold.ttf)
+  src: url(https://smarttechmukesh.github.io/assets/webfonts/Poppins-Bold.ttf)
 }
 /*
  * 1. Set `font-size` to support `rem` units
