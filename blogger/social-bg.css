@@ -1,0 +1,191 @@
+/*======================================================================================
+* Social Background CSS
+* Version          : v1.0.0 - (16 March 2024)
+* Author           : Smart Tech Mukesh
+* Author Url       : https://smarttechmukesh.com/
+* Thanks to        : All Supported
+* License          : MIT License
+======================================================================================*/
+.social-bg .blogger a,
+.social-hover-bg .blogger a:hover {
+    background-color: #ff5722
+}
+
+.social-bg .apple a,
+.social-hover-bg .apple a:hover {
+    background-color: #333
+}
+
+.social-bg .amazon a,
+.social-hover-bg .amazon a:hover {
+    background-color: #fe9800
+}
+
+.social-bg .microsoft a,
+.social-hover-bg .microsoft a:hover {
+    background-color: #0067B8
+}
+
+.social-bg .facebook a,
+.social-bg .facebook-f a,
+.social-hover-bg .facebook a:hover,
+.social-hover-bg .facebook-f a:hover {
+    background-color: #3b5999
+}
+
+.social-bg .twitter a,
+.social-hover-bg .twitter a:hover {
+    background-color: #00acee
+}
+
+.social-bg .twitter-x a,
+.social-hover-bg .twitter-x a:hover {
+    background-color: #000000
+}
+
+.social-bg .youtube a,
+.social-hover-bg .youtube a:hover {
+    background-color: #f50000
+}
+
+.social-bg .instagram a,
+.social-hover-bg .instagram a:hover {
+    background: linear-gradient(15deg, #ffb13d, #dd277b, #4d5ed4)
+}
+
+.social-bg .pinterest a,
+.social-bg .pinterest-p a,
+.social-hover-bg .pinterest a:hover,
+.social-hover-bg .pinterest-p a:hover {
+    background-color: #ca2127
+}
+
+.social-bg .dribbble a,
+.social-hover-bg .dribbble a:hover {
+    background-color: #ea4c89
+}
+
+.social-bg .linkedin a,
+.social-hover-bg .linkedin a:hover {
+    background-color: #0077b5
+}
+
+.social-bg .tumblr a,
+.social-hover-bg .tumblr a:hover {
+    background-color: #365069
+}
+
+.social-bg .twitch a,
+.social-hover-bg .twitch a:hover {
+    background-color: #6441a5
+}
+
+.social-bg .rss a,
+.social-hover-bg .rss a:hover {
+    background-color: #ffc200
+}
+
+.social-bg .skype a,
+.social-hover-bg .skype a:hover {
+    background-color: #00aff0
+}
+
+.social-bg .stumbleupon a,
+.social-hover-bg .stumbleupon a:hover {
+    background-color: #eb4823
+}
+
+.social-bg .vk a,
+.social-hover-bg .vk a:hover {
+    background-color: #4a76a8
+}
+
+.social-bg .stack-overflow a,
+.social-hover-bg .stack-overflow a:hover {
+    background-color: #f48024
+}
+
+.social-bg .github a,
+.social-hover-bg .github a:hover {
+    background-color: #24292e
+}
+
+.social-bg .soundcloud a,
+.social-hover-bg .soundcloud a:hover {
+    background: linear-gradient(#ff7400, #ff3400)
+}
+
+.social-bg .behance a,
+.social-hover-bg .behance a:hover {
+    background-color: #191919
+}
+
+.social-bg .digg a,
+.social-hover-bg .digg a:hover {
+    background-color: #1b1a19
+}
+
+.social-bg .delicious a,
+.social-hover-bg .delicious a:hover {
+    background-color: #0076e8
+}
+
+.social-bg .codepen a,
+.social-hover-bg .codepen a:hover {
+    background-color: #000
+}
+
+.social-bg .flipboard a,
+.social-hover-bg .flipboard a:hover {
+    background-color: #f52828
+}
+
+.social-bg .reddit a,
+.social-hover-bg .reddit a:hover {
+    background-color: #ff4500
+}
+
+.social-bg .whatsapp a,
+.social-hover-bg .whatsapp a:hover {
+    background-color: #3fbb50
+}
+
+.social-bg .messenger a,
+.social-hover-bg .messenger a:hover {
+    background-color: #0084ff
+}
+
+.social-bg .snapchat a,
+.social-hover-bg .snapchat a:hover {
+    background-color: #ffe700
+}
+
+.social-bg .telegram a,
+.social-hover-bg .telegram a:hover {
+    background-color: #179cde
+}
+
+.social-bg .steam a,
+.social-hover-bg .steam a:hover {
+    background: linear-gradient(5deg, #0d89bc, #112c5b, #0d1c47)
+}
+
+.social-bg .discord a,
+.social-hover-bg .discord a:hover {
+    background-color: #7289da
+}
+
+.social-bg .quora a,
+.social-hover-bg .quora a:hover {
+    background-color: #b92b27
+}
+
+.social-bg .tiktok a,
+.social-hover-bg .tiktok a:hover {
+    background-color: #fe2c55
+}
+
+.social-bg .email a,
+.social-hover-bg .email a:hover {
+    background-color: #888
+}
